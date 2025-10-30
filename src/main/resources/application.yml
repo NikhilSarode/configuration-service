@@ -1,0 +1,11 @@
+spring:
+  task:
+    scheduling:
+      pool:
+        size: 2
+logging:
+  level:
+    root: INFO
+
+server:
+  port:8025
